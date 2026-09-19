@@ -1,0 +1,12 @@
+{
+  "name": "petri-chain",
+  "private": true,
+  "description": "Local rehearsal network for PETRI: hardhat + a Pons V2 look-alike (factory, curve, escrow, forwarder) with the real events and signatures.",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node --port 8719"
+  },
+  "devDependencies": {
+    "hardhat": "^2.29.1"
+  }
+}

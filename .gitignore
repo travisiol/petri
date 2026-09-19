@@ -1,0 +1,12 @@
+node_modules/
+**/node_modules/
+data/
+!data/.gitkeep
+.env
+*.log
+chain/artifacts/
+chain/cache/
+chain/local.json
+scratch/
+data-local*/
+data-fork-check/
